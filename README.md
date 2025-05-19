@@ -91,3 +91,12 @@ ats-resume-analyzer/
 4. **Output**: Structured, clear, and useful feedback is displayed in the app.
 
 ## 📸 Results
+
+![Result_1](https://github.com/user-attachments/assets/a785ebeb-8110-4025-a504-a0c9e84505d5)
+
+![Result_2](https://github.com/user-attachments/assets/0c2793db-fe29-4745-9d18-bd06fe4f585d)
+
+![Result_3](https://github.com/user-attachments/assets/e2968e66-a508-47fe-b793-f13619e23f34)
+
+![Result_4](https://github.com/user-attachments/assets/b46cd001-628d-4238-9aa3-adc90ffdc0a9)
+
